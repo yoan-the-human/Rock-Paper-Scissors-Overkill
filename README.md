@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# Rock Paper Scissors Overkill
 
 A classic console-based "Rock, Paper, Scissors" game written in Java. This project demonstrates clean architecture, SOLID principles, and modular design.
 
