@@ -1,16 +1,12 @@
 {
     "name": "Rock Paper Scissors Overkill",
     "image": "mcr.microsoft.com/devcontainers/java:17",
-    "features": {
-        "ghcr.io/devcontainers/features/maven:1": {
-            "version": "latest"
-        }
-    },
     "customizations": {
         "vscode": {
             "extensions": [
                 "vscjava.vscode-java-pack"
             ]
         }
-    }
+    },
+    "postCreateCommand": "mvn clean install"
 }
