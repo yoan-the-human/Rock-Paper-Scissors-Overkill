@@ -1,0 +1,69 @@
+# =========================
+# Maven (Build output)
+# =========================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# =========================
+# Compiled Java files
+# =========================
+*.class
+
+# =========================
+# Logs
+# =========================
+*.log
+hs_err_pid*
+replay_pid*
+
+# =========================
+# Packaged Files
+# =========================
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# =========================
+# VS Code (Codespaces)
+# =========================
+# Ignore personal workspace settings but keep shared configs
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# =========================
+# Other IDEs (If others clone it)
+# =========================
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
