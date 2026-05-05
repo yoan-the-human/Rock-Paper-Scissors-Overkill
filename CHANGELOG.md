@@ -2,6 +2,13 @@
 
 Всички забележителни промени в този проект ще бъдат документирани в този файл.
 
+### [1.0.3](https://github.com/yoan-the-human/Rock-Paper_Scissors-Overkill/compare/v1.0.2...v1.0.3) (2026-05-05)
+
+
+### 🐛 Бъгове
+
+* fixed mvn: command not found ([0b153ac](https://github.com/yoan-the-human/Rock-Paper_Scissors-Overkill/commit/0b153acb534be2a91a3b0fd8950ae07d3b24a59e))
+
 ### [1.0.2](https://github.com/yoan-the-human/Rock-Paper_Scissors-Overkill/compare/v1.0.1...v1.0.2) (2026-05-05)
 
 
