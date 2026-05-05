@@ -2,6 +2,13 @@
 
 Всички забележителни промени в този проект ще бъдат документирани в този файл.
 
+### [1.0.4](https://github.com/yoan-the-human/Rock-Paper_Scissors-Overkill/compare/v1.0.3...v1.0.4) (2026-05-05)
+
+
+### 📚 Документация
+
+* updated README.md ([d9993d9](https://github.com/yoan-the-human/Rock-Paper_Scissors-Overkill/commit/d9993d9a2ea40ad821e62f6bb111763cb82b924e))
+
 ### [1.0.3](https://github.com/yoan-the-human/Rock-Paper_Scissors-Overkill/compare/v1.0.2...v1.0.3) (2026-05-05)
 
 
