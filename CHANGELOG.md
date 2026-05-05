@@ -2,6 +2,13 @@
 
 Всички забележителни промени в този проект ще бъдат документирани в този файл.
 
+## [1.1.0](https://github.com/yoan-the-human/Rock-Paper_Scissors-Overkill/compare/v1.0.4...v1.1.0) (2026-05-05)
+
+
+### ⚡ Подобрения
+
+* updated ui/ux ([102d7c9](https://github.com/yoan-the-human/Rock-Paper_Scissors-Overkill/commit/102d7c9739c0ea6507b2f0e1d0b7e945a6014fec))
+
 ### [1.0.4](https://github.com/yoan-the-human/Rock-Paper_Scissors-Overkill/compare/v1.0.3...v1.0.4) (2026-05-05)
 
 
